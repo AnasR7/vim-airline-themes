@@ -5,8 +5,8 @@ let s:N2 = [ '#BBE67E' , '#212733' , 114 , 0   ] " guifg guibg ctermfg ctermbg
 let s:N3 = [ '#E6E1CF' , '#212733' , 15  , 0   ] " guifg guibg ctermfg ctermbg
 
 " Insert mode
-let s:I1 = [ '#212733' , '#80D4FF' , 0   , 80  ] " guifg guibg ctermfg ctermbg
-let s:I2 = [ '#80D4FF' , '#212733' , 80  , 0   ] " guifg guibg ctermfg ctermbg
+let s:I1 = [ '#212733' , '#74D4FF' , 0   , 74  ] " guifg guibg ctermfg ctermbg
+let s:I2 = [ '#74D4FF' , '#212733' , 74  , 0   ] " guifg guibg ctermfg ctermbg
 let s:I3 = [ '#E6E1CF' , '#212733' , 15  , 0   ] " guifg guibg ctermfg ctermbg
 
 " Visual mode
